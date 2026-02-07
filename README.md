@@ -22,10 +22,10 @@ Tasks were planned and managed using lists such as Planned, To Do, In Progress, 
 - Visual workflow management
 
 ## Screenshots
-![Board Overview](screenshots/board-overview.png)
-![Task Details](screenshots/task-details.png)
+![Board Overview](screenshots/Board-overview.png)
+![Task Details](screenshots/Task-details.png)
 ![In Progress](screenshots/in-progress.png)
-![Completed](screenshots/completed.png)
+![Completed](screenshots/Completed.png)
 
 ## Learning Outcomes
 - Practical understanding of Agile workflow
