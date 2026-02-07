@@ -22,7 +22,7 @@ Tasks were planned and managed using lists such as Planned, To Do, In Progress, 
 - Visual workflow management
 
 ## Screenshots
-![Board Overview](screenshots/Board-overview.png)
+![Board Overview](screenshots/Board-Overview.png)
 ![Task Details](screenshots/Task-details.png)
 ![In Progress](screenshots/in-progress.png)
 ![Completed](screenshots/Completed.png)
